@@ -1,0 +1,10 @@
+C:\PHÙNG TRỌNG HƯNG\frmThongTinNguoiDung\bin\Debug\frmThongTinNguoiDung.exe.config
+C:\PHÙNG TRỌNG HƯNG\frmThongTinNguoiDung\bin\Debug\frmThongTinNguoiDung.exe
+C:\PHÙNG TRỌNG HƯNG\frmThongTinNguoiDung\bin\Debug\frmThongTinNguoiDung.pdb
+C:\PHÙNG TRỌNG HƯNG\frmThongTinNguoiDung\obj\Debug\frmThongTinNguoiDung.csproj.AssemblyReference.cache
+C:\PHÙNG TRỌNG HƯNG\frmThongTinNguoiDung\obj\Debug\frmThongTinNguoiDung.Form1.resources
+C:\PHÙNG TRỌNG HƯNG\frmThongTinNguoiDung\obj\Debug\frmThongTinNguoiDung.Properties.Resources.resources
+C:\PHÙNG TRỌNG HƯNG\frmThongTinNguoiDung\obj\Debug\frmThongTinNguoiDung.csproj.GenerateResource.cache
+C:\PHÙNG TRỌNG HƯNG\frmThongTinNguoiDung\obj\Debug\frmThongTinNguoiDung.csproj.CoreCompileInputs.cache
+C:\PHÙNG TRỌNG HƯNG\frmThongTinNguoiDung\obj\Debug\frmThongTinNguoiDung.exe
+C:\PHÙNG TRỌNG HƯNG\frmThongTinNguoiDung\obj\Debug\frmThongTinNguoiDung.pdb
